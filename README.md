@@ -5,5 +5,4 @@
 - 🔭 I’m currently working with Python, JavaScript, Kubernetes, Terraform, Helm
 - 🌱 I’m currently learning React and GoLang
 - 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with "Contributing to open source"
 - 📫 How to reach me: niravpatel8099@gmail.com
